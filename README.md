@@ -2,7 +2,7 @@
 <div align="center">
   <p>A simple anime quiz game subjected to <em>Fullmetal Alchemist Brotherhood</em>, developed using C# Programming Language in <br>Microsoft Visual Studio 2019.<p>
 
-  <img src="images/c-sharp-logo-png.png" width="200" >&emsp;<img src="images/console-view.png" width="400" >
+  <img src="images/c-sharp-logo-png.png" width="200" >&emsp;<img src="images/console-view.png" width="450" >
 
   <p align="center">
     <a href="#description">Description</a> •
